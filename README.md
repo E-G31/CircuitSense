@@ -51,7 +51,7 @@ CircuitSense is a deep learning application that recognizes handwritten electron
 ---
 
 
-## 📈 Training Pipeline
+##  Training Pipeline
 
 1. Dataset Exploration
 2. Data Cleaning
